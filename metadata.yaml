@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4305
     wikipedia: http://en.wikipedia.org/wiki/Jean_Ingelow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13224#Poems-by-Jean-Ingelow-In-Two-Volumes-Volume-II.
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-08-19'
 gutenberg_type: Text
